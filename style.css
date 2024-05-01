@@ -20,6 +20,9 @@ body{
     font-size: x-large;
     font-weight: bolder;
 }
+#heading{
+    background-color: burlywood;
+}
 .box-main-div-1{
     display: flex;
     flex-direction: row;
@@ -31,9 +34,9 @@ body{
     width: 60%;
     height: 5rem;
     padding-left: 28px;
-    background-color: lightgrey;
+    background-color: rgba(218, 165, 32, 0.644);
     font-size: xx-large;
-    color: red;
+    color: rgba(255, 238, 0, 0.849);
     font-weight: bolder;
    
 }
