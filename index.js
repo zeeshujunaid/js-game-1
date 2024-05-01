@@ -4,7 +4,7 @@ var winlose = document.getElementById("heading")
 function box1() {
     if (clickedBoxCount < 3) {
         var box = document.getElementById("box1");
-        var number = 1;
+        var number = 10;
         box.innerHTML = number;
         totalSum += number;
         clickedBoxCount++;
@@ -13,7 +13,7 @@ function box1() {
 } function box2() {
     if (clickedBoxCount < 3) {
         var box = document.getElementById("box2");
-        var number = 10;
+        var number = 0;
         box.innerHTML = number;
         totalSum += number;
         clickedBoxCount++;
@@ -22,7 +22,7 @@ function box1() {
 } function box3() {
     if (clickedBoxCount < 3) {
         var box = document.getElementById("box3");
-        var number = 33;
+        var number = 5;
         box.innerHTML = number;
         totalSum += number;
         clickedBoxCount++;
@@ -31,7 +31,7 @@ function box1() {
 } function box4() {
     if (clickedBoxCount < 3) {
         var box = document.getElementById("box4");
-        var number = 22;
+        var number = 27;
         box.innerHTML = number;
         totalSum += number;
         clickedBoxCount++;
@@ -40,7 +40,7 @@ function box1() {
 } function box5() {
     if (clickedBoxCount < 3) {
         var box = document.getElementById("box5");
-        var number = 59;
+        var number = 5;
         box.innerHTML = number;
         totalSum += number;
         clickedBoxCount++;
@@ -49,7 +49,7 @@ function box1() {
 } function box6() {
     if (clickedBoxCount < 3) {
         var box = document.getElementById("box6");
-        var number = 34;
+        var number = 4;
         box.innerHTML = number;
         totalSum += number;
         clickedBoxCount++;
@@ -59,7 +59,7 @@ function box1() {
 function box7() {
     if (clickedBoxCount < 3) {
     var box = document.getElementById("box7");
-    var number = 56;
+    var number = 9;
     box.innerHTML = number;
     totalSum += number;
     clickedBoxCount++;
@@ -68,7 +68,7 @@ function box7() {
 function box8() {
     if (clickedBoxCount < 3) {
     var box = document.getElementById("box8");
-    var number = 99;
+    var number = 44;
     box.innerHTML = number;
     totalSum += number;
     clickedBoxCount++;
@@ -76,7 +76,7 @@ function box8() {
 }} function box9() {
     if (clickedBoxCount < 3) {
     var box = document.getElementById("box9");
-    var number = 78;
+    var number = 50;
     box.innerHTML = number;
     totalSum += number;
     clickedBoxCount++;
@@ -84,7 +84,7 @@ function box8() {
 }} function box10() {
     if (clickedBoxCount < 3) {
     var box = document.getElementById("box10");
-    var number = 43;
+    var number = 30;
     box.innerHTML = number;
     totalSum += number;
     clickedBoxCount++;
@@ -101,7 +101,7 @@ function box8() {
 function box12() {
     if (clickedBoxCount < 3) {
     var box = document.getElementById("box12");
-    var number = 36;
+    var number = 19;
     box.innerHTML = number;
     totalSum += number;
     clickedBoxCount++;
@@ -109,7 +109,7 @@ function box12() {
 }} function box13() {
     if (clickedBoxCount < 3) {
     var box = document.getElementById("box13");
-    var number = 70;
+    var number = 60;
     box.innerHTML = number;
     totalSum += number;
     clickedBoxCount++;
@@ -117,7 +117,7 @@ function box12() {
 }} function box14() {
     if (clickedBoxCount < 3) {
     var box = document.getElementById("box14");
-    var number = 68;
+    var number = 77;
     box.innerHTML = number;
     totalSum += number;
     clickedBoxCount++;
@@ -125,7 +125,7 @@ function box12() {
 }} function box15() {
     if (clickedBoxCount < 3) {
     var box = document.getElementById("box15");
-    var number = 57;
+    var number = 31;
     box.innerHTML = number;
     totalSum += number;
     clickedBoxCount++;
@@ -149,7 +149,7 @@ function box12() {
 }} function box18() {
     if (clickedBoxCount < 3) {
     var box = document.getElementById("box18");
-    var number = 83;
+    var number = 0;
     box.innerHTML = number;
     totalSum += number;
     clickedBoxCount++;
@@ -157,7 +157,7 @@ function box12() {
 }} function box19() {
     if (clickedBoxCount < 3) {
     var box = document.getElementById("box19");
-    var number = 33;
+    var number = 6;
     box.innerHTML = number;
     totalSum += number;
     clickedBoxCount++;
@@ -165,7 +165,7 @@ function box12() {
 }} function box20() {
     if (clickedBoxCount < 3) {
     var box = document.getElementById("box20");
-    var number = 50;
+    var number = 9;
     box.innerHTML = number;
     totalSum += number;
     clickedBoxCount++;

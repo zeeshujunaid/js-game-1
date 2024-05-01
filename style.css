@@ -1,9 +1,10 @@
 body{
     padding: 0;
     margin: 0;
-    background-image: url("download1.jpg");
+    background-image: url("https://gifdb.com/images/high/retro-pixel-landscape-background-0g0dpo6tlg0pbmfp.gif");
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 .main-cointainer{
     display: flex;
@@ -33,5 +34,6 @@ body{
     background-color: lightgrey;
     font-size: xx-large;
     color: red;
+    font-weight: bolder;
    
 }
